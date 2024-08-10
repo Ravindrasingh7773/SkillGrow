@@ -1,0 +1,28 @@
+.heroSection {
+    display: flex;
+    padding: 60px 20px;
+    background: #f7f8fc;
+  }
+  
+  .heroContent {
+    max-width: 50%;
+  }
+  
+  .heroContent h1 {
+    font-size: 48px;
+    line-height: 1.2;
+  }
+  
+  .highlight {
+    background-color: #ffda44;
+    padding: 0 5px;
+  }
+  
+  .btnPrimary {
+    margin-top: 20px;
+  }
+  
+  .heroImage img {
+    max-width: 100%;
+  }
+  
